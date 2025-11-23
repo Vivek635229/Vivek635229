@@ -1,22 +1,15 @@
 <div align="center">
 
-<!-- 
-STEP 1: Upload your banner image and replace the URL below
-Method 1: Upload to GitHub Issues and copy the image URL
-Method 2: Upload to repository and use: ![Banner](banner.png)
-Method 3: Upload to imgur.com and use the direct link
--->
+<!-- DIRECT URL BANNER - NO UPLOAD NEEDED! -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vivek%20Khara&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20Full%20Stack%20Engineer%20|%20Building%20Digital%20Solutions&descAlignY=55&descSize=20" alt="Header Banner"/>
 
-<!-- YOUR BANNER IMAGE HERE -->
-<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Vivek Khara - Software Developer" width="100%"/>
-
-<!-- Alternative if you upload banner.png to repository root: -->
-<!-- ![Banner](banner.png) -->
+<!-- Profile Photo with Overlap Effect -->
+<img src="https://github.com/Vivek635229.png" alt="Vivek Khara" width="200" style="margin-top: -100px; border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 10px 50px rgba(59, 130, 246, 0.5);"/>
 
 <br/>
 <br/>
 
-<!-- Professional Title with Typing Effect -->
+<!-- Animated Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused)](https://git.io/typing-svg)
 
 <br/>
@@ -524,7 +517,7 @@ mindmap
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer"/>
 
 <br/>
 
