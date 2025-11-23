@@ -261,20 +261,27 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
+<!-- GitHub Stats Card -->
 <a href="https://github.com/Vivek635229">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek635229&show_icons=true&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&count_private=true&include_all_commits=true&disable_animations=false"/>
+</a>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/Vivek635229">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8&hide=jupyter%20notebook"/>
 </a>
 
 <br/>
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=vue&hide_border=true&background=ffffff&stroke=1e3a8a&ring=3b82f6&fire=f59e0b&currStreakLabel=1e3a8a&border_radius=10" alt="GitHub Streak"/>
+<!-- GitHub Streak Stats -->
+<img width="90%" src="https://streak-stats.demolab.com/?user=Vivek635229&theme=default&hide_border=true&background=ffffff&stroke=1e3a8a&ring=3b82f6&fire=f59e0b&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=1e3a8a&sideLabels=1e3a8a&dates=2d3748&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=github-light&hide_border=true&bg_color=ffffff&color=1e3a8a&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&border_radius=10&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
+<!-- Contribution Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=ffffff&color=1e3a8a&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&height=300" alt="Contribution Graph"/>
 
 </div>
 
