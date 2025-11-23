@@ -1,42 +1,21 @@
 <div align="center">
+
 <!-- 
 STEP 1: Upload your banner image and replace the URL below
 Method 1: Upload to GitHub Issues and copy the image URL
 Method 2: Upload to repository and use: ![Banner](banner.png)
 Method 3: Upload to imgur.com and use the direct link
 -->
+
 <!-- YOUR BANNER IMAGE HERE -->
 <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Vivek Khara - Software Developer" width="100%"/>
+
 <!-- Alternative if you upload banner.png to repository root: -->
 <!-- ![Banner](banner.png) -->
+
 <br/>
 <br/>
-<!-- Professional Title with Typing Effect -->
-Show Image
-<br/>
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/Vivek-Khara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vivekkhara800@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Vivek635229" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-<!-- Stats Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Vivek635229?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge" alt="Status"/>
-</p>
-</div>
-<br/>
+
 <!-- Professional Title with Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused)](https://git.io/typing-svg)
 
@@ -528,9 +507,6 @@ mindmap
 <a href="https://github.com/Vivek635229" target="_blank">
   <img src="https://img.shields.io/badge/👤_Follow_on_GitHub-3b82f6?style=for-the-badge&logoColor=white" alt="Follow"/>
 </a>
-<a href="https://github.com/sponsors/Vivek635229" target="_blank">
-  <img src="https://img.shields.io/badge/💖_Sponsor-ea4335?style=for-the-badge&logoColor=white" alt="Sponsor"/>
-</a>
 
 <br/>
 <br/>
@@ -547,6 +523,7 @@ mindmap
 
 <div align="center">
 
+<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer"/>
 
 <br/>
