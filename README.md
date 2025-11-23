@@ -261,14 +261,20 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a8a&icon_color=3b82f6&text_color=1e293b&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=default&hide_border=true&background=f8fafc&stroke=1e3a8a&ring=3b82f6&fire=3b82f6&currStreakLabel=1e3a8a&border_radius=12" alt="GitHub Streak"/>
+<a href="https://github.com/Vivek635229">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8"/>
+</a>
 
 <br/>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a8a&text_color=1e293b&border_radius=12&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=github-light&hide_border=true&bg_color=f8fafc&color=1e3a8a&line=3b82f6&point=3b82f6&area=true&border_radius=12" alt="Contribution Graph"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=vue&hide_border=true&background=ffffff&stroke=1e3a8a&ring=3b82f6&fire=f59e0b&currStreakLabel=1e3a8a&border_radius=10" alt="GitHub Streak"/>
+
+<br/>
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=github-light&hide_border=true&bg_color=ffffff&color=1e3a8a&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&border_radius=10&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
 
 </div>
 
@@ -468,29 +474,23 @@ mindmap
 
 <div align="center">
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake Animation
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=react-dark&hide_border=true&bg_color=1e3a8a&color=60a5fa&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" alt="Contribution Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+*Note: Snake animation is a visual representation of your GitHub contribution graph*
 
 </div>
 
 <br/>
-
----
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" 
-       src="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
