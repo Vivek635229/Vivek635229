@@ -1,27 +1,41 @@
 <div align="center">
 
-<!-- Professional Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,50:4A90E2,100:6FB1FC&height=200&section=header&text=Vivek%20Khara&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20Tech%20Innovator&descAlignY=55&descSize=18" alt="Header"/>
+<!-- Custom Professional Banner with Photo -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=300&section=header&text=Vivek%20Khara&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20|%20Full%20Stack%20Engineer%20|%20Building%20Digital%20Solutions&descAlignY=60&descSize=20" alt="Header Banner"/>
 
-<!-- Profile Picture with Border -->
-<img src="https://github.com/Vivek635229.png" alt="Vivek Khara" width="180" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 30px rgba(74, 144, 226, 0.6);"/>
+<!-- Profile Photo Positioned on Banner -->
+<img src="https://github.com/Vivek635229.png" alt="Vivek Khara" width="200" style="margin-top: -120px; border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 10px 50px rgba(59, 130, 246, 0.5);"/>
 
 <br/>
 <br/>
 
-<!-- Professional Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vivek-Khara)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkhara800@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivek635229)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+<!-- Professional Title with Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=3000&pause=1000&color=2E5EAA&center=true&vCenter=true&width=800&height=60&lines=Transforming+Ideas+into+Digital+Reality;Building+Scalable+Web+%26+Mobile+Solutions;Passionate+About+Clean+Code+%26+Innovation;Open+Source+Contributor+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/Vivek-Khara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vivekkhara800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Vivek635229" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile%20Views&color=4A90E2&style=flat-square" alt="Profile Views" />
+<!-- Stats Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Vivek635229?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge" alt="Status"/>
+</p>
 
 </div>
 
@@ -33,48 +47,81 @@
 
 <div align="center">
 
-## 💼 Professional Summary
+## 👨‍💼 Professional Overview
 
 </div>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🎯 About Me
 
-```yaml
-name: Vivek Khara
-location: Navsari, Gujarat, India
-role: Full Stack Developer & Software Engineer
-status: Freelance & Open for Opportunities
-experience: Web & Mobile Application Development
-specialty: End-to-End Solution Architecture
+<p align="justify">
+Passionate <strong>Software Developer</strong> and <strong>Full Stack Engineer</strong> with expertise in building robust, scalable web and mobile applications. Based in <strong>Navsari, Gujarat, India</strong>, I specialize in transforming complex business requirements into elegant technical solutions.
+</p>
 
-interests:
-  - Clean Code Architecture
-  - Scalable Systems
-  - Modern Web Technologies
-  - Mobile-First Design
-  - Cloud Infrastructure
+<p align="justify">
+Currently working as a <strong>Freelance Developer</strong>, I bring a comprehensive skill set spanning frontend, backend, and database technologies. My approach combines clean code principles with modern development practices to deliver high-quality, maintainable software solutions.
+</p>
+
+#### 💼 **Current Focus:**
+- 🔹 Building scalable full-stack applications
+- 🔹 Mobile-first responsive development
+- 🔹 Cloud architecture & deployment
+- 🔹 Open source contributions
+- 🔹 Continuous learning & innovation
+
+#### 🎓 **Core Competencies:**
+- **Frontend:** React, React Native, Modern UI/UX
+- **Backend:** Node.js, Python, .NET, PHP
+- **Database:** MongoDB, MySQL, SQL Server
+- **DevOps:** Git, GitHub, Docker, Cloud Platforms
+
+</td>
+<td width="40%" valign="top">
+
+### 📊 Quick Stats
+
+<br/>
+
+```
+📍 Location:        Navsari, Gujarat, India
+💼 Role:            Software Developer
+🎯 Specialization:  Full Stack Development
+📧 Email:           vivekkhara800@gmail.com
+🌐 Status:          Open for Opportunities
 ```
 
+<br/>
+
+#### 🏆 **Highlights:**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="40"/>
+<br/><strong>10+</strong>
+<br/><sub>Technologies</sub>
 </td>
-<td width="50%" valign="top">
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="40"/>
+<br/><strong>Full Stack</strong>
+<br/><sub>Development</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40"/>
+<br/><strong>Freelance</strong>
+<br/><sub>Expert</sub>
+</td>
+</tr>
+</table>
 
-### 🚀 What I Bring
+<br/>
 
-```typescript
-const skills = {
-  frontend: ["React", "React Native", "UI/UX"],
-  backend: ["Node.js", "Express", "Python", ".NET"],
-  databases: ["MongoDB", "MySQL", "SQL Server"],
-  languages: ["JavaScript", "Python", "Java", "C#", "PHP"],
-  tools: ["Git", "GitHub", "VS Code", "Postman"],
-  expertise: "Full-Stack Development",
-  approach: "Quality-Driven & Client-Focused"
-};
-```
+#### 💡 **Philosophy:**
+
+> *"Quality code is not written, it's crafted with passion, tested with precision, and deployed with confidence."*
 
 </td>
 </tr>
@@ -88,234 +135,207 @@ const skills = {
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
-
-### **Frontend Excellence**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-</tr>
-</table>
-
-### **Backend & Server**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-<br>.NET
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br>C#
-</td>
-</tr>
-</table>
-
-### **Programming Languages**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-</tr>
-</table>
-
-### **Database Management**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-</tr>
-</table>
-
-### **Tools & Platforms**
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-</tr>
-</table>
+## 🛠️ Technical Expertise
 
 </div>
 
-<br/>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Frontend Technologies**
 
----
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Performance Analytics
-
-<br/>
-
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2E5EAA&icon_color=4A90E2&text_color=333333&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=default&hide_border=true&background=ffffff&stroke=2E5EAA&ring=4A90E2&fire=4A90E2&currStreakLabel=2E5EAA&border_radius=10" alt="GitHub Streak"/>
-
-<br/>
-<br/>
-
-<!-- Language Stats & Contribution Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2E5EAA&text_color=333333&border_radius=10&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=github-light&hide_border=true&bg_color=ffffff&color=2E5EAA&line=4A90E2&point=4A90E2&area=true&border_radius=10" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🏆 Achievements & Recognition
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💡 Development Philosophy
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,figma&theme=light" />
+</p>
 
 <table align="center">
 <tr>
-<td width="33%" align="center">
+<td align="center" width="25%">
+<strong>⚛️ React.js</strong><br/>
+<sub>Component-based UI development</sub>
+</td>
+<td align="center" width="25%">
+<strong>📱 React Native</strong><br/>
+<sub>Cross-platform mobile apps</sub>
+</td>
+<td align="center" width="25%">
+<strong>🎨 Modern CSS</strong><br/>
+<sub>Responsive & adaptive design</sub>
+</td>
+<td align="center" width="25%">
+<strong>⚡ JavaScript</strong><br/>
+<sub>ES6+ & TypeScript ready</sub>
+</td>
+</tr>
+</table>
 
-### 🎨 Design First
-**User-Centric Approach**
+<br/>
 
-Building intuitive interfaces that users love to interact with
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Backend & Server-Side**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<strong>🟢 Node.js</strong><br/>
+<sub>Scalable server applications</sub>
+</td>
+<td align="center" width="25%">
+<strong>🐍 Python</strong><br/>
+<sub>Backend & automation</sub>
+</td>
+<td align="center" width="25%">
+<strong>⚙️ .NET Core</strong><br/>
+<sub>Enterprise solutions</sub>
+</td>
+<td align="center" width="25%">
+<strong>☕ Java</strong><br/>
+<sub>Object-oriented programming</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Database Management**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=light" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<strong>🍃 MongoDB</strong><br/>
+<sub>NoSQL document database</sub>
+</td>
+<td align="center" width="33%">
+<strong>🐬 MySQL</strong><br/>
+<sub>Relational database systems</sub>
+</td>
+<td align="center" width="33%">
+<strong>🔥 Firebase</strong><br/>
+<sub>Real-time cloud database</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Development Tools & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,webpack&theme=light" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<strong>📦 Git & GitHub</strong><br/>
+<sub>Version control expert</sub>
+</td>
+<td align="center" width="25%">
+<strong>💻 VS Code</strong><br/>
+<sub>Primary development IDE</sub>
+</td>
+<td align="center" width="25%">
+<strong>🐳 Docker</strong><br/>
+<sub>Containerization</sub>
+</td>
+<td align="center" width="25%">
+<strong>📮 Postman</strong><br/>
+<sub>API testing & documentation</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Analytics & Performance
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a8a&icon_color=3b82f6&text_color=1e293b&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=default&hide_border=true&background=f8fafc&stroke=1e3a8a&ring=3b82f6&fire=3b82f6&currStreakLabel=1e3a8a&border_radius=12" alt="GitHub Streak"/>
+
+<br/>
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a8a&text_color=1e293b&border_radius=12&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=github-light&hide_border=true&bg_color=f8fafc&color=1e3a8a&line=3b82f6&point=3b82f6&area=true&border_radius=12" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💼 Professional Approach
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
+
+### Clean Code
+**Readable & Maintainable**
+
+Writing self-documenting code that follows industry best practices and design patterns
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64"/>
 
-### ⚡ Performance Driven
+### Performance
 **Speed & Efficiency**
 
-Optimizing every line of code for maximum performance
+Optimizing applications for maximum performance and minimal resource consumption
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64"/>
 
-### 🔒 Security Focused
+### Security
 **Best Practices**
 
-Implementing industry-standard security protocols
+Implementing robust security measures and following OWASP guidelines
+
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="64"/>
+
+### Testing
+**Quality Assurance**
+
+Comprehensive testing strategies ensuring reliable and bug-free deployments
 
 </td>
 </tr>
@@ -329,33 +349,34 @@ Implementing industry-standard security protocols
 
 <div align="center">
 
-## 🎯 Current Focus & Goals
+## 🎯 Current Learning Path
 
 </div>
 
 ```mermaid
 mindmap
-  root((Vivek Khara))
-    Technical Growth
-      Cloud Architecture
-      Microservices
-      AI Integration
-      DevOps Practices
-    Projects
-      Full Stack Applications
-      Mobile Development
-      Open Source Contributions
-      SaaS Products
-    Learning
+  root((Vivek Khara<br/>2025))
+    Skills Enhancement
       Advanced React Patterns
-      System Design
-      Web3 Technologies
-      Machine Learning Basics
-    Career
+      Next.js & SSR
+      GraphQL & Apollo
+      Web3 & Blockchain
+      Cloud Architecture
+        AWS
+        Azure
+        Google Cloud
+    Project Focus
+      SaaS Applications
+      E-commerce Solutions
+      Real-time Systems
+      Mobile Apps
+      Open Source
+    Career Growth
       Freelance Excellence
-      Building Network
-      Tech Community
+      Technical Leadership
+      Community Building
       Knowledge Sharing
+      Mentoring
 ```
 
 <br/>
@@ -366,62 +387,55 @@ mindmap
 
 <div align="center">
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
+## 🤝 Let's Build Something Amazing Together
 
 <br/>
 
----
+### **Currently Available For:**
 
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate
-
-<br/>
-
-### **Open for:**
-✅ Freelance Projects | ✅ Full-Time Opportunities | ✅ Technical Collaborations | ✅ Open Source Contributions
-
-<br/>
-
-<!-- Contact Cards -->
-<table>
+<table align="center">
 <tr>
-<td align="center">
-<a href="https://linkedin.com/in/Vivek-Khara" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<br/>
-<strong>Professional Network</strong>
-</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="64"/>
+<br/><strong>Freelance Projects</strong>
+<br/><sub>Custom development solutions</sub>
 </td>
-<td align="center">
-<a href="mailto:vivekkhara800@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-<br/>
-<strong>Direct Contact</strong>
-</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="64"/>
+<br/><strong>Full-Time Roles</strong>
+<br/><sub>Software development positions</sub>
 </td>
-<td align="center">
-<a href="https://github.com/Vivek635229" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/>
-<strong>Code Repository</strong>
-</a>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/collaborate.png" width="64"/>
+<br/><strong>Collaborations</strong>
+<br/><sub>Open source & side projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/consultation.png" width="64"/>
+<br/><strong>Consulting</strong>
+<br/><sub>Technical guidance & reviews</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 📧 **Email:** vivekkhara800@gmail.com
-### 📍 **Location:** Navsari, Gujarat, India
-### 💼 **Status:** Available for Exciting Opportunities
+### **📬 Get In Touch**
+
+<p align="center">
+  <a href="https://linkedin.com/in/Vivek-Khara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vivekkhara800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vivekkhara800@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📍 Location:</strong> Navsari, Gujarat, India<br/>
+  <strong>💼 Status:</strong> <img src="https://img.shields.io/badge/Available-brightgreen?style=flat-square" alt="Available"/> Open for Opportunities<br/>
+  <strong>⏰ Response Time:</strong> Within 24 hours
+</p>
 
 </div>
 
@@ -433,16 +447,16 @@ mindmap
 
 <div align="center">
 
-## 💭 Professional Quote
+## 💭 Words to Code By
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote"/>
 
 <br/>
 <br/>
 
-### *"Code is poetry written in logic, where every function tells a story and every algorithm solves a problem."*
+### *"The best code is no code at all, but when you must write it, make it elegant, efficient, and maintainable."*
 
 </div>
 
@@ -454,7 +468,7 @@ mindmap
 
 <div align="center">
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Activity Visualization
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake-dark.svg">
@@ -472,9 +486,28 @@ mindmap
 
 <div align="center">
 
-### 📊 Detailed Contribution Stats
+## ⭐ Support My Work
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Vivek635229&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+<br/>
+
+**If you find my projects valuable, I'd appreciate your support!**
+
+<br/>
+
+<a href="https://github.com/Vivek635229?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-1e3a8a?style=for-the-badge&logoColor=white" alt="Star Repos"/>
+</a>
+<a href="https://github.com/Vivek635229" target="_blank">
+  <img src="https://img.shields.io/badge/👤_Follow_on_GitHub-3b82f6?style=for-the-badge&logoColor=white" alt="Follow"/>
+</a>
+<a href="https://github.com/sponsors/Vivek635229" target="_blank">
+  <img src="https://img.shields.io/badge/💖_Sponsor-ea4335?style=for-the-badge&logoColor=white" alt="Sponsor"/>
+</a>
+
+<br/>
+<br/>
+
+### *Every star and follow motivates me to create better solutions!* 🚀
 
 </div>
 
@@ -486,38 +519,16 @@ mindmap
 
 <div align="center">
 
-## ⭐ Show Some Love
-
-**If you find my work valuable, consider:**
-
-[![Star](https://img.shields.io/badge/⭐_Star_My_Repos-4A90E2?style=for-the-badge)](https://github.com/Vivek635229?tab=repositories)
-[![Follow](https://img.shields.io/badge/👤_Follow_Me-2E5EAA?style=for-the-badge)](https://github.com/Vivek635229)
-[![Sponsor](https://img.shields.io/badge/💖_Sponsor-EA4335?style=for-the-badge)](https://github.com/sponsors/Vivek635229)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer"/>
 
 <br/>
 
-### 🌟 *"Every star, follow, and contribution motivates me to build better solutions!"*
-
-</div>
+**Crafted with 💙 by Vivek Khara** | **© 2025**
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,50:4A90E2,100:6FB1FC&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" alt="Footer"/>
-
-<br/>
-
-**Made with ❤️ by Vivek Khara** | **© 2025 All Rights Reserved**
-
-<br/>
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-4A90E2?style=flat-square)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square)
-![Profile Status](https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square&logo=checkmarx)
+![Updated](https://img.shields.io/badge/Last%20Updated-November%202025-1e3a8a?style=flat-square&logo=clockify)
+![Status](https://img.shields.io/badge/Profile%20Status-Active-brightgreen?style=flat-square&logo=statuspage)
 
 </div>
