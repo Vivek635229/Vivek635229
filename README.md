@@ -139,7 +139,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 </div>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Frontend Technologies**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"> **Frontend Technologies**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,figma&theme=light" />
@@ -168,7 +168,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Backend & Server-Side**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"> **Backend & Server-Side**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light" />
@@ -197,7 +197,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Database Management**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"> **Database Management**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=light" />
@@ -222,7 +222,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Development Tools & Platforms**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" style="vertical-align: middle;"> **Development Tools & Platforms**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,webpack&theme=light" />
@@ -410,22 +410,17 @@ mindmap
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="64"/>
 <br/><strong>Freelance Projects</strong>
 <br/><sub>Custom development solutions</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="64"/>
 <br/><strong>Full-Time Roles</strong>
 <br/><sub>Software development positions</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/collaborate.png" width="64"/>
-<br/><strong>Collaborations</strong>
-<br/><sub>Open source & side projects</sub>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/consultation.png" width="64"/>
 <br/><strong>Consulting</strong>
 <br/><sub>Technical guidance & reviews</sub>
