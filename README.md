@@ -468,13 +468,11 @@ mindmap
 
 <div align="center">
 
-## 🐍 Contribution Activity Visualization
+## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&theme=react-dark&hide_border=true&bg_color=1e3a8a&color=60a5fa&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" alt="Contribution Graph" width="100%"/>
 
 </div>
 
