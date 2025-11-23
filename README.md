@@ -274,8 +274,10 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <br/>
 <br/>
 
-<!-- GitHub Streak Stats -->
-<img width="90%" src="https://streak-stats.demolab.com/?user=Vivek635229&theme=default&hide_border=true&background=ffffff&stroke=1e3a8a&ring=3b82f6&fire=f59e0b&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=1e3a8a&sideLabels=1e3a8a&dates=2d3748&border_radius=10" alt="GitHub Streak"/>
+<!-- GitHub Streak Stats - Multiple Fallbacks -->
+<a href="https://github.com/Vivek635229">
+  <img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=Vivek635229&theme=default&hide_border=true&background=FFFFFF&stroke=1E3A8A&ring=3B82F6&fire=F59E0B&currStreakNum=2D3748&sideNums=2D3748&currStreakLabel=1E3A8A&sideLabels=1E3A8A&dates=2D3748&border_radius=10" alt="GitHub Streak" onerror="this.onerror=null; this.src='https://streak-stats.demolab.com/?user=Vivek635229&theme=default&hide_border=true&background=FFFFFF&stroke=1E3A8A&ring=3B82F6&fire=F59E0B&currStreakNum=2D3748&sideNums=2D3748&currStreakLabel=1E3A8A&sideLabels=1E3A8A&dates=2D3748&border_radius=10';"/>
+</a>
 
 <br/>
 <br/>
