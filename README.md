@@ -1,14 +1,42 @@
 <div align="center">
-
-<!-- Custom Professional Banner with Photo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=300&section=header&text=Vivek%20Khara&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20|%20Full%20Stack%20Engineer%20|%20Building%20Digital%20Solutions&descAlignY=60&descSize=20" alt="Header Banner"/>
-
-<!-- Profile Photo Positioned on Banner -->
-<img src="https://github.com/Vivek635229.png" alt="Vivek Khara" width="200" style="margin-top: -120px; border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 10px 50px rgba(59, 130, 246, 0.5);"/>
-
+<!-- 
+STEP 1: Upload your banner image and replace the URL below
+Method 1: Upload to GitHub Issues and copy the image URL
+Method 2: Upload to repository and use: ![Banner](banner.png)
+Method 3: Upload to imgur.com and use the direct link
+-->
+<!-- YOUR BANNER IMAGE HERE -->
+<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Vivek Khara - Software Developer" width="100%"/>
+<!-- Alternative if you upload banner.png to repository root: -->
+<!-- ![Banner](banner.png) -->
 <br/>
 <br/>
-
+<!-- Professional Title with Typing Effect -->
+Show Image
+<br/>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/Vivek-Khara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vivekkhara800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Vivek635229" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+<!-- Stats Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Vivek635229?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge" alt="Status"/>
+</p>
+</div>
+<br/>
 <!-- Professional Title with Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused)](https://git.io/typing-svg)
 
