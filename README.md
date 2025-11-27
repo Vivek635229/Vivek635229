@@ -152,15 +152,6 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <div align="center">
 
-<!-- ENHANCED ANIMATED TECH STACK HEADER -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100"/>
-
 ## 🛠️ Technical Expertise
 
 </div>
@@ -170,14 +161,6 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,figma&theme=light&perline=8" />
 </p>
-
-<!-- ANIMATED FRONTEND SHOWCASE -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
-</div>
 
 <table align="center">
 <tr>
@@ -208,13 +191,6 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light&perline=8" />
 </p>
 
-<!-- ANIMATED BACKEND SHOWCASE -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
-</div>
-
 <table align="center">
 <tr>
 <td align="center" width="25%">
@@ -244,12 +220,6 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=light&perline=5" />
 </p>
 
-<!-- ANIMATED DATABASE SHOWCASE -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80"/>
-</div>
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -274,12 +244,6 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,webpack&theme=light&perline=8" />
 </p>
-
-<!-- ANIMATED TOOLS SHOWCASE -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
-</div>
 
 <table align="center">
 <tr>
@@ -313,21 +277,20 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <!-- ANIMATED STATS HEADER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
-
 ## 📊 GitHub Analytics & Performance
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
 
 <br/>
 
 <!-- GitHub Stats Cards with Light Theme -->
 <p align="center">
+<!-- GitHub Stats Card -->
 <a href="https://github.com/Vivek635229">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de&count_private=true&include_all_commits=true&line_height=24&card_width=400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek635229&show_icons=true&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&count_private=true&include_all_commits=true&disable_animations=false"/>
 </a>
+
+<!-- Top Languages Card -->
 <a href="https://github.com/Vivek635229">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=8&card_width=445"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8&hide=jupyter%20notebook"/>
 </a>
 </p>
 
