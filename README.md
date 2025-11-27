@@ -202,9 +202,8 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-<div align="flex items-center">
 ### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" style="vertical-align: middle;"> **Backend & Server-Side**
-</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light&perline=8" />
 </p>
@@ -323,60 +322,48 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <br/>
 
 <!-- GitHub Stats Cards with Light Theme -->
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
+<p align="center">
 <a href="https://github.com/Vivek635229">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&icon_color=4299e1&text_color=2d3748&border_radius=15&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Statistics"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de&count_private=true&include_all_commits=true&line_height=24&card_width=400"/>
 </a>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/Vivek635229">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&text_color=2d3748&border_radius=15&langs_count=8&hide=jupyter%20notebook&custom_title=💻%20Most%20Used%20Languages"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=8&card_width=445"/>
 </a>
-</td>
-</tr>
-</table>
+</p>
 
 <br/>
 <br/>
 
 <!-- GitHub Streak Stats with Light Theme -->
-<div align="center">
+<p align="center">
 <a href="https://github.com/Vivek635229">
-  <img width="85%" src="https://streak-stats.demolab.com/?user=Vivek635229&theme=default&hide_border=true&background=ffffff&stroke=2d3748&ring=4299e1&fire=f56565&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=4299e1&sideLabels=4299e1&dates=2d3748&border_radius=15" alt="GitHub Streak"/>
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=default&hide_border=false&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=800&border=d0d7de&stroke=d0d7de&ring=0969da&fire=dd7518&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a&background=ffffff" alt="GitHub Streak Stats"/>
 </a>
-</div>
+</p>
 
 <br/>
 <br/>
 
 <!-- Contribution Activity Graph with Light Theme -->
-<div align="center">
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=ffffff&color=2d3748&line=4299e1&point=f56565&area=true&area_color=bee3f8&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&height=400&radius=15" alt="Contribution Graph"/>
-</div>
+<p align="center">
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=ffffff&color=24292f&line=0969da&point=dd7518&area=true&area_color=c8e1ff&hide_border=false&border_radius=8&custom_title=📈%20Contribution%20Activity%20Graph&height=400" alt="Contribution Activity Graph"/>
+</p>
 
 <!-- ADDITIONAL GITHUB METRICS -->
 <br/>
 
 <!-- Profile Summary Card with Light Theme -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek635229&theme=default" width="85%" alt="Profile Summary"/>
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek635229&theme=github" width="75%" alt="GitHub Profile Summary"/>
+</p>
 
 <br/>
 
-<!-- Metrics Cards Grid -->
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vivek635229&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&text_color=2d3748&custom_title=⏰%20Weekly%20Development&border_radius=15" width="90%" alt="Weekly Stats"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&icon_color=4299e1&text_color=2d3748&border_radius=15&custom_title=📈%20Detailed%20Stats" width="90%" alt="Detailed Stats"/>
-</td>
-</tr>
-</table>
+<!-- Additional GitHub Metrics -->
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Vivek635229&limit=5&theme=light&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek635229&repo=Vivek635229&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="48%" alt="Profile Repo"/>
+</p>
 
 </div>
 
@@ -396,29 +383,21 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <br/>
 
 <!-- Enhanced GitHub Trophies with Light Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=false&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,MultiLanguage" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="GitHub Trophies"/>
 
 <br/>
 
 <!-- METRICS CARDS GRID -->
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=default" width="90%" alt="Repos per Language"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=default" width="90%" alt="Most Commit Language"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=default" width="90%" alt="Stats"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=default&utcOffset=5.5" width="90%" alt="Productive Time"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=github" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=github" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=github" width="32%" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="49%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-details?username=Vivek635229&theme=github" width="49%" alt="Commit Details"/>
+</p>
 
 </div>
 
