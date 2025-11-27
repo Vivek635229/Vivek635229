@@ -311,42 +311,71 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <div align="center">
 
 <!-- ANIMATED STATS HEADER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
 
 ## 📊 GitHub Analytics & Performance
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+
 <br/>
 
-<!-- WORKING GitHub Stats Cards with Better Fallbacks -->
+<!-- GitHub Stats Cards with Light Theme -->
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/Vivek635229">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Statistics"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&icon_color=4299e1&text_color=2d3748&border_radius=15&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Statistics"/>
 </a>
-
-<!-- Working Top Languages Card -->
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Vivek635229">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&langs_count=8&hide=jupyter%20notebook&custom_title=💻%20Most%20Used%20Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&text_color=2d3748&border_radius=15&langs_count=8&hide=jupyter%20notebook&custom_title=💻%20Most%20Used%20Languages"/>
 </a>
+</td>
+</tr>
+</table>
 
 <br/>
 <br/>
 
-<!-- Working GitHub Streak Stats -->
+<!-- GitHub Streak Stats with Light Theme -->
+<div align="center">
 <a href="https://github.com/Vivek635229">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Vivek635229&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=FFFFFF&border_radius=10" alt="GitHub Streak"/>
+  <img width="85%" src="https://streak-stats.demolab.com/?user=Vivek635229&theme=default&hide_border=true&background=ffffff&stroke=2d3748&ring=4299e1&fire=f56565&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=4299e1&sideLabels=4299e1&dates=2d3748&border_radius=15" alt="GitHub Streak"/>
 </a>
+</div>
 
 <br/>
 <br/>
 
-<!-- Working Contribution Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area=true&area_color=4ECDC4&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&height=350" alt="Contribution Graph"/>
+<!-- Contribution Activity Graph with Light Theme -->
+<div align="center">
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=ffffff&color=2d3748&line=4299e1&point=f56565&area=true&area_color=bee3f8&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&height=400&radius=15" alt="Contribution Graph"/>
+</div>
 
 <!-- ADDITIONAL GITHUB METRICS -->
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vivek635229&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&custom_title=⏰%20Weekly%20Development%20Breakdown" width="45%" alt="Weekly Stats"/>
+<!-- Profile Summary Card with Light Theme -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek635229&theme=default" width="85%" alt="Profile Summary"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek635229&theme=radical" width="90%" alt="Profile Summary"/>
+<br/>
+
+<!-- Metrics Cards Grid -->
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vivek635229&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&text_color=2d3748&custom_title=⏰%20Weekly%20Development&border_radius=15" width="90%" alt="Weekly Stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&icon_color=4299e1&text_color=2d3748&border_radius=15&custom_title=📈%20Detailed%20Stats" width="90%" alt="Detailed Stats"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -365,19 +394,30 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-<!-- Enhanced GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,MultiLanguage" alt="GitHub Trophies"/>
+<!-- Enhanced GitHub Trophies with Light Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=false&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,MultiLanguage" alt="GitHub Trophies"/>
 
 <br/>
 
-<!-- ADDITIONAL METRICS CARDS -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=radical" width="45%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=radical" width="45%" alt="Most Commit Language"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=radical" width="45%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=radical&utcOffset=5.5" width="45%" alt="Productive Time"/>
+<!-- METRICS CARDS GRID -->
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=default" width="90%" alt="Repos per Language"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=default" width="90%" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=default" width="90%" alt="Stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=default&utcOffset=5.5" width="90%" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 
 </div>
 
