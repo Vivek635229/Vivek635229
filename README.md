@@ -347,6 +347,9 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
+<br/>
+<br/>
+
 <!-- METRICS CARDS GRID -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=github" width="32%" alt="Repos per Language"/>
@@ -356,7 +359,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="32%" alt="Productive Time"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide=contribs&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="32%" hight="40%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide=contribs&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="32%" hight="100%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=6" width="32%" alt="Top Languages"/>
 </p>
 
