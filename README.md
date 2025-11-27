@@ -1,23 +1,5 @@
 <div align="center">
 
-<!-- PROFESSIONAL FONT STYLING -->
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
-
-body {
-  font-family: 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', 'Inter', sans-serif;
-  font-weight: 600;
-}
-
-code, pre {
-  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-}
-</style>
-
 <!-- ANIMATED HEADER BANNER WITH CODING BACKGROUND -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,10:4ECDC4,30:45B7D1,50:96CEB4,70:FECA57,90:FF9FF3,100:54A0FF&height=400&section=header&text=Vivek%20Khara&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Software%20Developer%20|%20Full%20Stack%20Engineer%20|%20Building%20Digital%20Solutions%20🌟&descAlignY=58&descSize=25&rotate=0" alt="Animated Header Banner"/>
 
@@ -58,12 +40,12 @@ code, pre {
 <!-- Enhanced Stats Badges with Fixed Profile Views -->
 <p align="center">
   <a href="https://github.com/Vivek635229">
-    <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=PROFILE+VIEWS&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile+Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Vivek635229?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vivek635229?label=FOLLOWERS&style=for-the-badge&color=3b82f6&labelColor=1e3a8a" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Vivek635229?label=Followers&style=for-the-badge&color=3b82f6&labelColor=1e3a8a" alt="Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00D26A?style=for-the-badge&labelColor=2d3748" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-00D26A?style=for-the-badge&labelColor=2d3748" alt="Status"/>
 </p>
 
 <!-- ANIMATED DIVIDER -->
