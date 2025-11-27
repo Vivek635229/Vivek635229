@@ -338,15 +338,12 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <div align="center">
 
-<!-- ANIMATED ACHIEVEMENTS HEADER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
 ## 🏆 GitHub Achievements
 
 <br/>
 
 <!-- Enhanced GitHub Trophies with Light Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="GitHub Trophies"/>
 
 <br/>
 
@@ -359,7 +356,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="32%" alt="Productive Time"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide=contribs&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="32%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide=contribs&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="32%" hight="40%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=6" width="32%" alt="Top Languages"/>
 </p>
 
