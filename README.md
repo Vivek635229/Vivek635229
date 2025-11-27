@@ -1,5 +1,23 @@
 <div align="center">
 
+<!-- PROFESSIONAL FONT STYLING -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+body {
+  font-family: 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+code, pre {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+}
+</style>
+
 <!-- ANIMATED HEADER BANNER WITH CODING BACKGROUND -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,10:4ECDC4,30:45B7D1,50:96CEB4,70:FECA57,90:FF9FF3,100:54A0FF&height=400&section=header&text=Vivek%20Khara&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Software%20Developer%20|%20Full%20Stack%20Engineer%20|%20Building%20Digital%20Solutions%20🌟&descAlignY=58&descSize=25&rotate=0" alt="Animated Header Banner"/>
 
@@ -12,9 +30,9 @@
 <br/>
 <br/>
 
-<!-- Animated Typing Effect -->
+<!-- Enhanced Animated Typing Effect with Professional Font -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1000&height=80&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused;🌟+Building+the+Future+with+Clean+Code)](https://git.io/typing-svg)
 
 <!-- ANIMATED CODING GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8cc47.gif" width="400" alt="Coding Animation"/>
@@ -37,11 +55,15 @@
   </a>
 </p>
 
-<!-- Enhanced Stats Badges -->
+<!-- Enhanced Stats Badges with Fixed Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile%20Views&color=ff6b6b&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-  <img src="https://custom-icon-badges.demolab.com/github/followers/Vivek635229?label=Followers&style=for-the-badge&color=4ecdc4&logo=person-add" alt="Followers"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Status-Available%20for%20Work-45b7d1?style=for-the-badge&logo=rocket" alt="Status"/>
+  <a href="https://github.com/Vivek635229">
+    <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=PROFILE+VIEWS&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Vivek635229?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vivek635229?label=FOLLOWERS&style=for-the-badge&color=3b82f6&labelColor=1e3a8a" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00D26A?style=for-the-badge&labelColor=2d3748" alt="Status"/>
 </p>
 
 <!-- ANIMATED DIVIDER -->
@@ -156,7 +178,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" style="vertical-align: middle;"> **Frontend Technologies**
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Frontend Technologies**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,figma&theme=light&perline=8" />
@@ -185,7 +207,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" style="vertical-align: middle;"> **Backend & Server-Side**
+### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Backend & Server-Side**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light&perline=8" />
@@ -214,7 +236,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50" style="vertical-align: middle;"> **Database Management**
+### <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Database Management**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=light&perline=5" />
@@ -239,7 +261,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="vertical-align: middle;"> **Development Tools & Platforms**
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Development Tools & Platforms**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,webpack&theme=light&perline=8" />
@@ -285,23 +307,29 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <p align="center">
 <!-- GitHub Stats Card -->
 <a href="https://github.com/Vivek635229">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek635229&show_icons=true&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&count_private=true&include_all_commits=true&disable_animations=false"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek635229&show_icons=true&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&count_private=true&include_all_commits=true&disable_animations=false"/>
 </a>
 
 <!-- Top Languages Card -->
 <a href="https://github.com/Vivek635229">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8&hide=jupyter%20notebook"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8&hide=jupyter%20notebook"/>
 </a>
 </p>
 
 <br/>
 <br/>
 
-<!-- GitHub Streak Stats with Light Theme -->
+<!-- GitHub Streak Stats - Multiple Working Options -->
 <p align="center">
 <a href="https://github.com/Vivek635229">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Vivek635229&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats"/>
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=Vivek635229&theme=transparent&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800&ring=3b82f6&fire=f59e0b&currStreakLabel=1e3a8a&sideLabels=1e3a8a&currStreakNum=2d3748&sideNums=2d3748&dates=2d3748&background=ffffff&stroke=d1d5db&border=d1d5db" alt="GitHub Streak Stats"/>
 </a>
+</p>
+
+<!-- Alternative Streak Display -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_color=e5e7eb&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="Detailed Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_color=e5e7eb&count_private=true&custom_title=Total%20Contributions" width="49%" alt="Contribution Stats"/>
 </p>
 
 <br/>
