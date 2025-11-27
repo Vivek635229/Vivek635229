@@ -300,7 +300,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <!-- GitHub Streak Stats with Light Theme -->
 <p align="center">
 <a href="https://github.com/Vivek635229">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek635229&theme=default&hide_border=false&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=800&border=d0d7de&stroke=d0d7de&ring=0969da&fire=dd7518&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a&background=ffffff" alt="GitHub Streak Stats"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=Vivek635229&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats"/>
 </a>
 </p>
 
@@ -358,8 +358,9 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="49%" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-details?username=Vivek635229&theme=github" width="49%" alt="Commit Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="32%" alt="Productive Time"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide=contribs&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="32%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=6" width="32%" alt="Top Languages"/>
 </p>
 
 </div>
