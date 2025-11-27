@@ -202,8 +202,9 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
+<div align="flex items-center">
 ### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" style="vertical-align: middle;"> **Backend & Server-Side**
-
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light&perline=8" />
 </p>
