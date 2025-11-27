@@ -12,9 +12,9 @@
 <br/>
 <br/>
 
-<!-- Enhanced Animated Typing Effect -->
+<!-- Animated Typing Effect -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused;🌟+Building+the+Future+with+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=💻+Crafting+Scalable+Software+Solutions;🚀+Full+Stack+Web+%26+Mobile+Developer;⚡+Transforming+Ideas+into+Reality;🎯+Code+Quality+%26+Innovation+Focused)](https://git.io/typing-svg)
 
 <!-- ANIMATED CODING GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8cc47.gif" width="400" alt="Coding Animation"/>
