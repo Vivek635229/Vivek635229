@@ -159,9 +159,8 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 ## 🛠️ Technical Expertise
 
 </div>
-<p align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" style="vertical-align: middle; margin-bottom: -16px;"/> **Frontend Technologies** </p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" style="vertical-align: middle; margin-bottom: -16px; margin-top: 40px"/> **Frontend Technologies**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,figma&theme=light&perline=8" />
