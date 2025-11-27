@@ -40,7 +40,7 @@
 <!-- Enhanced Stats Badges with Fixed Profile Views -->
 <p align="center">
   <a href="https://github.com/Vivek635229">
-    <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile+Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Vivek635229&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Vivek635229?tab=followers">
     <img src="https://img.shields.io/github/followers/Vivek635229?label=Followers&style=for-the-badge&color=3b82f6&labelColor=1e3a8a" alt="Followers"/>
