@@ -463,27 +463,43 @@ mindmap
 
 <br/>
 
-### **Currently Available For:**
+### **Open to Collaborate On**
 
-<table align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelance%20Projects-Available-0ea5e9?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Projects"/>
+  <img src="https://img.shields.io/badge/Full--Time%20Roles-Open-10b981?style=for-the-badge&logo=teamspeak&logoColor=white" alt="Full-Time Roles"/>
+  <img src="https://img.shields.io/badge/Consulting-Tech%20Advisory-f59e0b?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Consulting"/>
+</p>
+
+<table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="64"/>
-<br/><strong>Freelance Projects</strong>
-<br/><sub>Custom development solutions</sub>
+<img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="56"/>
+<br/><strong>Freelance Delivery</strong>
+<br/><sub>Web, mobile, and API product builds</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="64"/>
-<br/><strong>Full-Time Roles</strong>
-<br/><sub>Software development positions</sub>
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="56"/>
+<br/><strong>Long-Term Roles</strong>
+<br/><sub>Scalable engineering with ownership</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/consultation.png" width="64"/>
-<br/><strong>Consulting</strong>
-<br/><sub>Technical guidance & reviews</sub>
+<img src="https://img.icons8.com/fluency/96/000000/consultation.png" width="56"/>
+<br/><strong>Architecture Consulting</strong>
+<br/><sub>Code quality, performance, and security</sub>
 </td>
 </tr>
 </table>
+
+<br/>
+
+### **Support My Work**
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vivekkharab" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 <br/>
 
