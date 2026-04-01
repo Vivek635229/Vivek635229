@@ -330,50 +330,44 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineering-Quality%20Driven-0969da?style=for-the-badge" alt="Engineering Quality"/>
+  <img src="https://img.shields.io/badge/Delivery-Performance%20Focused-0ea5e9?style=for-the-badge" alt="Performance Focused"/>
+  <img src="https://img.shields.io/badge/Mindset-Secure%20by%20Design-10b981?style=for-the-badge" alt="Secure by Design"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214375747-2d7b0de8-1f9f-4d4f-a2db-9c6dfc4d7d80.gif" width="90" alt="Approach Animation"/>
+</p>
+
 <table align="center" width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
-
-### Clean Code
-
-**Readable & Maintainable**
-
-Writing self-documenting code that follows industry best practices and design patterns
-
+<td width="50%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="56"/>
+<br/><strong>Clean Code</strong>
+<br/><sub>Readable, maintainable, and scalable architecture with consistent standards.</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64"/>
-
-### Performance
-
-**Speed & Efficiency**
-
-Optimizing applications for maximum performance and minimal resource consumption
-
+<td width="50%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="56"/>
+<br/><strong>Performance</strong>
+<br/><sub>Fast user experience through optimized queries, APIs, and frontend rendering.</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64"/>
-
-### Security
-
-**Best Practices**
-
-Implementing robust security measures and following OWASP guidelines
-
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="56"/>
+<br/><strong>Security</strong>
+<br/><sub>Practical OWASP-aligned controls across authentication, validation, and data flow.</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="64"/>
-
-### Testing
-
-**Quality Assurance**
-
-Comprehensive testing strategies ensuring reliable and bug-free deployments
-
+<td width="50%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="56"/>
+<br/><strong>Testing</strong>
+<br/><sub>Reliable releases through layered testing, review discipline, and CI checks.</sub>
 </td>
 </tr>
 </table>
+
+<p align="center"><em>Build with clarity. Ship with confidence. Improve continuously.</em></p>
 
 <br/>
 
