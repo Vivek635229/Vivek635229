@@ -70,83 +70,45 @@
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 🎯 About Me
-
-<p align="justify">
-Passionate <strong>Software Developer</strong> and <strong>Full Stack Engineer</strong> with expertise in building robust, scalable web and mobile applications. Based in <strong>Navsari, Gujarat, India</strong>, I specialize in transforming complex business requirements into elegant technical solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Software%20Developer-0969da?style=for-the-badge" alt="Role"/>
+  <img src="https://img.shields.io/badge/Location-Navsari%2C%20Gujarat%2C%20India-0ea5e9?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-10b981?style=for-the-badge" alt="Status"/>
 </p>
 
-<p align="justify">
-Currently working as a <strong>Freelance Developer</strong>, I bring a comprehensive skill set spanning frontend, backend, and database technologies. My approach combines clean code principles with modern development practices to deliver high-quality, maintainable software solutions.
+<p align="center">
+  I am a <strong>Software Developer</strong> and <strong>Full Stack Engineer</strong> focused on building dependable, scalable, and user-friendly digital products.
+  I convert business ideas into production-ready solutions with a strong emphasis on clean architecture, performance, and maintainability.
 </p>
 
-#### 💼 **Current Focus:**
-
-- 🔹 Building scalable full-stack applications
-- 🔹 Mobile-first responsive development
-- 🔹 Cloud architecture & deployment
-- 🔹 Open source contributions
-- 🔹 Continuous learning & innovation
-
-#### 🎓 **Core Competencies:**
-
-- **Frontend:** React, React Native, Modern UI/UX
-- **Backend:** Node.js, Python, .NET, PHP
-- **Database:** MongoDB, MySQL, SQL Server
-- **DevOps:** Git, GitHub, Docker, Cloud Platforms
-
-</td>
-<td width="40%" valign="top">
-
-### 📊 Quick Stats
-
-<br/>
-
-```
-📍 Location:        Navsari, Gujarat, India
-💼 Role:            Software Developer
-🎯 Specialization:  Full Stack Development
-📧 Email:           vivekkhara800@gmail.com
-🌐 Status:          Open for Opportunities
-```
-
-<br/>
-
-#### 🏆 **Highlights:**
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="40"/>
-<br/><strong>10+</strong>
-<br/><sub>Technologies</sub>
+<td width="50%" valign="top">
+
+### 🚀 Focus Areas
+
+- Building scalable full-stack web applications
+- Designing mobile-first responsive interfaces
+- Engineering secure and maintainable backend systems
+- Delivering cloud-ready deployments and CI-friendly workflows
+- Contributing to open source and continuous learning
+
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="40"/>
-<br/><strong>Full Stack</strong>
-<br/><sub>Development</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40"/>
-<br/><strong>Freelance</strong>
-<br/><sub>Expert</sub>
+<td width="50%" valign="top">
+
+### 🧩 Professional Snapshot
+
+- **Primary Role:** Freelance Software Developer
+- **Specialization:** Full Stack Development
+- **Tech Breadth:** Frontend, Backend, Databases, DevOps
+- **Core Stack:** React, Node.js, Python, .NET, MongoDB, MySQL
+- **Work Style:** Quality-first delivery with clear communication
+
 </td>
 </tr>
 </table>
 
-<br/>
-
-#### 💡 **Philosophy:**
-
-> _"Quality code is not written, it's crafted with passion, tested with precision, and deployed with confidence."_
-
-</td>
-</tr>
-</table>
+<p align="center"><strong>Philosophy:</strong> <em>Quality code is crafted with intent, validated with rigor, and shipped with confidence.</em></p>
 
 <br/>
 
