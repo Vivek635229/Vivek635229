@@ -122,115 +122,64 @@
 
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" style="vertical-align: middle; margin-bottom: -16px; margin-top: 40px"/> **Frontend Technologies**
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Stack-Frontend%20%7C%20Backend%20%7C%20Data%20%7C%20DevOps-0969da?style=for-the-badge" alt="Stack Coverage"/>
+  <img src="https://img.shields.io/badge/Engineering%20Style-Production%20Ready-0ea5e9?style=for-the-badge" alt="Engineering Style"/>
+  <img src="https://img.shields.io/badge/Architecture-Scalable%20%26%20Maintainable-10b981?style=for-the-badge" alt="Architecture"/>
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Frontend Engineering
+
+<p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,figma&theme=light&perline=8" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<strong>⚛️ React.js</strong><br/>
-<sub>Component-based UI development</sub>
-</td>
-<td align="center" width="25%">
-<strong>📱 React Native</strong><br/>
-<sub>Cross-platform mobile apps</sub>
-</td>
-<td align="center" width="25%">
-<strong>🎨 Modern CSS</strong><br/>
-<sub>Responsive & adaptive design</sub>
-</td>
-<td align="center" width="25%">
-<strong>⚡ JavaScript</strong><br/>
-<sub>ES6+ & TypeScript ready</sub>
-</td>
-</tr>
-</table>
+<sub><strong>Core Focus:</strong> Component systems, responsive UI architecture, and modern UX delivery.</sub>
 
-<br/>
+</td>
+<td width="50%" valign="top" align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Backend & Server-Side**
+### Backend Engineering
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet,cs,java,cpp&theme=light&perline=8" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<strong>🟢 Node.js</strong><br/>
-<sub>Scalable server applications</sub>
-</td>
-<td align="center" width="25%">
-<strong>🐍 Python</strong><br/>
-<sub>Backend & automation</sub>
-</td>
-<td align="center" width="25%">
-<strong>⚙️ .NET Core</strong><br/>
-<sub>Enterprise solutions</sub>
-</td>
-<td align="center" width="25%">
-<strong>☕ Java</strong><br/>
-<sub>Object-oriented programming</sub>
+<sub><strong>Core Focus:</strong> API design, business logic reliability, and scalable service development.</sub>
+
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br/>
+### Data & Persistence
 
-### <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Database Management**
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=light&perline=5" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<strong>🍃 MongoDB</strong><br/>
-<sub>NoSQL document database</sub>
-</td>
-<td align="center" width="33%">
-<strong>🐬 MySQL</strong><br/>
-<sub>Relational database systems</sub>
-</td>
-<td align="center" width="33%">
-<strong>🔥 Firebase</strong><br/>
-<sub>Real-time cloud database</sub>
-</td>
-</tr>
-</table>
+<sub><strong>Core Focus:</strong> Structured and NoSQL data modeling, query optimization, and integrity.</sub>
 
-<br/>
+</td>
+<td width="50%" valign="top" align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"/> **Development Tools & Platforms**
+### Developer Toolchain
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,webpack&theme=light&perline=8" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<strong>📦 Git & GitHub</strong><br/>
-<sub>Version control expert</sub>
-</td>
-<td align="center" width="25%">
-<strong>💻 VS Code</strong><br/>
-<sub>Primary development IDE</sub>
-</td>
-<td align="center" width="25%">
-<strong>🐳 Docker</strong><br/>
-<sub>Containerization</sub>
-</td>
-<td align="center" width="25%">
-<strong>📮 Postman</strong><br/>
-<sub>API testing & documentation</sub>
+<sub><strong>Core Focus:</strong> Collaboration workflows, containerized environments, and delivery tooling.</sub>
+
 </td>
 </tr>
 </table>
+
+<p align="center"><em>From product idea to deployment, I build solutions with a full-cycle engineering mindset.</em></p>
 
 <br/>
 
