@@ -285,57 +285,30 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <br/>
 
-<!-- GitHub Stats Cards with Light Theme -->
-<p align="center">
-<!-- GitHub Stats Card -->
-<a href="https://github.com/Vivek635229">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek635229&show_icons=true&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_radius=10&count_private=true&include_all_commits=true&disable_animations=false"/>
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/Vivek635229">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=react&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=2d3748&border_radius=10&langs_count=8&hide=jupyter%20notebook"/>
-</a>
-</p>
-
-<br/>
-<br/>
-
-<!-- GitHub Streak Stats - Multiple Working Options -->
-<p align="center">
-<a href="https://github.com/Vivek635229">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=Vivek635229&theme=transparent&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800&ring=3b82f6&fire=f59e0b&currStreakLabel=1e3a8a&sideLabels=1e3a8a&currStreakNum=2d3748&sideNums=2d3748&dates=2d3748&background=ffffff&stroke=d1d5db&border=d1d5db" alt="GitHub Streak Stats"/>
-</a>
-</p>
-
-<!-- Alternative Streak Display -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=github" width="49%" alt="Detailed Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="49%" alt="Contribution Stats"/>
-</p>
-
-<br/>
-<br/>
-
-<!-- Contribution Activity Graph with Light Theme -->
-<p align="center">
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=ffffff&color=24292f&line=0969da&point=dd7518&area=true&area_color=c8e1ff&hide_border=false&border_radius=8&custom_title=📈%20Contribution%20Activity%20Graph&height=400" alt="Contribution Activity Graph"/>
-</p>
-
-<!-- ADDITIONAL GITHUB METRICS -->
-<br/>
-
-<!-- Profile Summary Card with Light Theme -->
+<!-- Profile Summary Card -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek635229&theme=github" width="75%" alt="GitHub Profile Summary"/>
 </p>
 
 <br/>
 
-<!-- Additional GitHub Metrics -->
+<!-- Tech Distribution -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=github" width="48%" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=github" width="48%" alt="Most Commit Language"/>
+</p>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek635229&bg_color=ffffff&color=24292f&line=0969da&point=dd7518&area=true&area_color=c8e1ff&hide_border=false&border_radius=8&custom_title=Public%20Contribution%20Activity&height=380" alt="Contribution Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-8-0969da?style=for-the-badge" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/Vivek635229?style=for-the-badge&label=Followers&color=0ea5e9" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Vivek635229/NodeEmail-Auth-System?style=for-the-badge&label=Featured%20Repo%20Stars&color=f59e0b" alt="Featured Repo Stars"/>
 </p>
 
 <br/>
@@ -551,37 +524,6 @@ mindmap
 <br/>
 
 ### _"The best code is no code at all, but when you must write it, make it elegant, efficient, and maintainable."_
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<!-- ANIMATED SNAKE GAME HEADER -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600"/>
-
-## 🐍 GitHub Contribution Snake Game
-
-<br/>
-
-<!-- Working Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vivek635229/Vivek635229/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Fallback Snake Animation -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/>
-
-_🎮 Watch the snake eat my GitHub contributions!_
 
 </div>
 
