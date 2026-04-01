@@ -310,8 +310,8 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <!-- Alternative Streak Display -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_color=e5e7eb&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="Detailed Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=1e3a8a&icon_color=3b82f6&text_color=2d3748&border_color=e5e7eb&count_private=true&custom_title=Total%20Contributions" width="49%" alt="Contribution Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=github" width="49%" alt="Detailed Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="49%" alt="Contribution Stats"/>
 </p>
 
 <br/>
@@ -334,7 +334,7 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <!-- Additional GitHub Metrics -->
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Vivek635229&limit=5&theme=light&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=github" width="48%" alt="Top Contributed Repo"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek635229&repo=Vivek635229&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="48%" alt="Profile Repo"/>
 </p>
 
