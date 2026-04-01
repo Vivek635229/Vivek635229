@@ -334,9 +334,24 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 
 <!-- Additional GitHub Metrics -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=github" width="48%" alt="Top Contributed Repo"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek635229&repo=Vivek635229&theme=graywhite&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="48%" alt="Profile Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=github" width="48%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=github" width="48%" alt="Most Commit Language"/>
 </p>
+
+<br/>
+
+### 🔝 Featured Repository
+
+<p align="center">
+  <a href="https://github.com/Vivek635229/NodeEmail-Auth-System" target="_blank">
+    <img src="https://img.shields.io/badge/Top%20Contributed%20Repo-NodeEmail--Auth--System-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Top Contributed Repo"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/Vivek635229/NodeEmail-Auth-System?style=for-the-badge&color=f59e0b" alt="Repo Stars"/>
+  <img src="https://img.shields.io/github/last-commit/Vivek635229/NodeEmail-Auth-System?style=for-the-badge&color=0ea5e9" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/languages/top/Vivek635229/NodeEmail-Auth-System?style=for-the-badge&color=10b981" alt="Top Language"/>
+</p>
+
+<p align="center"><sub>Note: GitHub cards usually count public activity. Private contribution counts appear only when enabled in your GitHub profile settings.</sub></p>
 
 </div>
 
@@ -353,24 +368,17 @@ Currently working as a <strong>Freelance Developer</strong>, I bring a comprehen
 <br/>
 
 <!-- Enhanced GitHub Trophies with Light Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Vivek635229&theme=flat&no-frame=false&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&title=Stars,Repositories,Commits,Followers,Issues,PullRequest" alt="GitHub Trophies"/>
 
 <br/>
 
 <br/>
 <br/>
-
-<!-- METRICS CARDS GRID -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek635229&theme=github" width="32%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek635229&theme=github" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek635229&theme=github" width="32%" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek635229&theme=github&utcOffset=5.5" width="32%" alt="Productive Time"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek635229&show_icons=true&theme=default&hide=contribs&count_private=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de" width="32%" hight="100%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek635229&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&langs_count=6" width="32%" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Achievement%20Focus-Consistent%20Building-1e3a8a?style=for-the-badge" alt="Achievement Focus"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Active-0ea5e9?style=for-the-badge" alt="Open Source Active"/>
+  <img src="https://img.shields.io/badge/Profile-Professional-10b981?style=for-the-badge" alt="Professional Profile"/>
 </p>
 
 </div>
